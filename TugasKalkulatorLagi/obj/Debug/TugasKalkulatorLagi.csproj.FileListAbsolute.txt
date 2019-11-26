@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\bin\Debug\TugasKalkulatorLagi.exe.config
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\bin\Debug\TugasKalkulatorLagi.exe
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\bin\Debug\TugasKalkulatorLagi.pdb
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\obj\Debug\TugasKalkulatorLagi.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\obj\Debug\TugasKalkulatorLagi.frmHasil.resources
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\obj\Debug\TugasKalkulatorLagi.frmHitung.resources
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\obj\Debug\TugasKalkulatorLagi.Properties.Resources.resources
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\obj\Debug\TugasKalkulatorLagi.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\obj\Debug\TugasKalkulatorLagi.exe
+C:\Users\HP\Documents\Projects\PemrogramanLanjut\Pertemuan8\Tugas\TugasKalkulatorLagi\TugasKalkulatorLagi\obj\Debug\TugasKalkulatorLagi.pdb
